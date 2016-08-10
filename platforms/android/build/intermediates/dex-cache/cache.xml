@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ae214a7725bfe9b14785ac220429c71edde49cb6.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.4.0_6eee6856ce18c6c61ae13bdf43cf0f82cf59c903.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.4.0_75a857ba75d6d7ee960c83a765dddffc36a221a6.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_e01d2bc098dcf6d6451fa0d6d72c10bef7864ab6.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_b389dfa4a551983d66802ba11e81ad48acfe026e.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_66e26e4c6b9b51c505d648a21e8bf1dc14df36a1.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\me.leolin-ShortcutBadger-1.1.4_71354385b32eb08fb752709650ef232967c54d8b.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e703f7e4500ff85cd64ef087c715ee1e5658d9aa.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.4.0_85d10ccad6d3968000d7285e4d0c70d6d96269c3.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_de0a6ff5b0d7d2a766e2ad1496ed7abc011bfde8.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\android.cordova-plugin-background-app\background-activity-lib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ce962154b1bd9a28c4fa675b3cd8b39707b699ca">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\background-activity-lib-unspecified-debug_b25a2e6d1d1fd4907f61c50a791b5557c8c074a6.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_b63beb5c08494bc910f0785ac98e16b3eb0b790d.jar" />
+    </item>
+    <item
+        jar="C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ba58f8415f8cc899c1100f4106a27dd7b3cbcbe1">
+        <dex dex="C:\AVAVA\AVAVA\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_1204e80206d676d02a77a8dc3e14005b1c534ad9.jar" />
+    </item>
+
+</items>

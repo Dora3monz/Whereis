@@ -1,0 +1,326 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:2:1-50:12
+	android:hardwareAccelerated
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:2:133-191
+	package
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:2:102-132
+		INJECTED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml
+		INJECTED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:2:74-101
+		INJECTED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml
+		INJECTED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:2:46-73
+		INJECTED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml
+		INJECTED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml
+supports-screens
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:3:5-191
+	android:resizeable
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:3:106-131
+	android:largeScreens
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:3:49-76
+	android:anyDensity
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:3:23-48
+	android:normalScreens
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:3:160-188
+	android:smallScreens
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:3:132-159
+uses-permission#android.permission.INTERNET
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support:support-v13:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [android.cordova-plugin-background-app:background-activity-lib:unspecified:debug] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\android.cordova-plugin-background-app\background-activity-lib\unspecified\debug\AndroidManifest.xml:8:5-20:19
+	android:supportsRtl
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:5:116-142
+	android:label
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:5:83-115
+	android:icon
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:5:53-82
+	android:hardwareAccelerated
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:5:18-52
+activity#com.aidilazhar.avava.MainActivity
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:6:9-7:20
+MERGED from [android.cordova-plugin-background-app:background-activity-lib:unspecified:debug] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\android.cordova-plugin-background-app\background-activity-lib\unspecified\debug\AndroidManifest.xml:9:9-19:20
+	android:windowSoftInputMode
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:6:294-336
+	android:screenOrientation
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:6:194-230
+	android:label
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:6:97-134
+	android:configChanges
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:6:231-293
+	android:exported
+		ADDED from [android.cordova-plugin-background-app:background-activity-lib:unspecified:debug] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\android.cordova-plugin-background-app\background-activity-lib\unspecified\debug\AndroidManifest.xml:12:13-36
+	android:allowTaskReparenting
+		ADDED from [android.cordova-plugin-background-app:background-activity-lib:unspecified:debug] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\android.cordova-plugin-background-app\background-activity-lib\unspecified\debug\AndroidManifest.xml:11:13-48
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:6:166-193
+	android:launchMode
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:6:135-165
+activity#org.chromium.BackgroundLauncherActivity
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:8:9-13:20
+	android:theme
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:8:141-187
+	android:excludeFromRecents
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:8:19-52
+	android:taskAffinity
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:8:108-140
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:8:53-107
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:9:13-12:29
+	android:label
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:9:28-65
+action#android.intent.action.MAIN
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:11:17-77
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:11:27-74
+activity#org.chromium.BackgroundActivity
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:14:9-362
+	android:configChanges
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:14:56-133
+	android:theme
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:14:313-359
+	android:exported
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:14:168-192
+	android:excludeFromRecents
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:14:134-167
+	android:taskAffinity
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:14:271-312
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:14:224-270
+	android:alwaysRetainTaskState
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:14:19-55
+	android:launchMode
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:14:193-223
+activity#com.adobe.phonegap.push.PushHandlerActivity
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:15:9-104
+	android:exported
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:15:19-42
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:15:43-101
+receiver#com.adobe.phonegap.push.BackgroundActionButtonHandler
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:16:9-90
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:16:19-87
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:17:9-22:20
+	android:exported
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:17:19-42
+	android:permission
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:17:97-157
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:17:43-96
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:18:13-21:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:19:17-81
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:19:25-78
+category#${applicationId}
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:20:17-61
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:20:27-58
+		INJECTED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml
+service#com.adobe.phonegap.push.GCMIntentService
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:23:18-42
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:23:43-98
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:24:13-26:29
+service#com.adobe.phonegap.push.PushInstanceIDListenerService
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:28:9-32:19
+	android:exported
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:28:18-42
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:28:43-111
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:29:13-31:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:30:17-80
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:30:25-77
+service#com.adobe.phonegap.push.RegistrationIntentService
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:33:9-110
+	android:exported
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:33:18-42
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:33:43-107
+uses-sdk
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:35:5-74
+MERGED from [com.android.support:support-v13:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [android:CordovaLib:unspecified:debug] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\AndroidManifest.xml:25:5-44
+MERGED from [android.cordova-plugin-background-app:background-activity-lib:unspecified:debug] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\android.cordova-plugin-background-app\background-activity-lib\unspecified\debug\AndroidManifest.xml:6:5-44
+MERGED from [android:CordovaLib:unspecified:debug] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\AndroidManifest.xml:25:5-44
+	android:targetSdkVersion
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:35:42-71
+	android:minSdkVersion
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:35:15-41
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:37:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:38:5-81
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:38:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:39:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:40:5-79
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:40:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:41:5-71
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:41:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:42:5-80
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:42:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:43:5-75
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:43:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:44:5-79
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:44:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:45:5-68
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:45:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:46:5-66
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:46:22-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:47:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:47:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:48:5-110
+	android:protectionLevel
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:48:72-107
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:48:17-71
+		INJECTED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:49:5-79
+	android:name
+		ADDED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml:49:22-76
+		INJECTED from C:\AVAVA\AVAVA\platforms\android\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:9-22:45
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:21:19-78
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:22:19-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:22:13-58
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\AndroidManifest.xml:23:13-66
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:27:22-85
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:30:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:30:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:33:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.4] C:\AVAVA\AVAVA\platforms\android\build\intermediates\exploded-aar\me.leolin\ShortcutBadger\1.1.4\AndroidManifest.xml:33:22-80
